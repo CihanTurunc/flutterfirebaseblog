@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25147586555",
+    "project_id": "fir-blog-dfb4a",
+    "storage_bucket": "fir-blog-dfb4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25147586555:android:4e7a3810cc686d8e027d5e",
+        "android_client_info": {
+          "package_name": "com.example.firebasetemelblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25147586555-qjk5l43nq7jij8c7ftshvpa1hhbdgncf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFbfUZpF_rQSSMUa9gPVm9MSPpHAe2HXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25147586555-qjk5l43nq7jij8c7ftshvpa1hhbdgncf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
